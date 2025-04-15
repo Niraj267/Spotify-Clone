@@ -6,11 +6,7 @@
   A visually stunning, full-featured Spotify clone built with ❤️ using modern web technologies.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/license/yourusername/spotify-clone?style=flat-square" />
-  <img src="https://img.shields.io/github/languages/top/yourusername/spotify-clone?style=flat-square" />
-  <img src="https://img.shields.io/github/issues/yourusername/spotify-clone?style=flat-square" />
-</p>
+
 
 <p align="center">
   <img src="https://your-link-to-banner-image.png" width="100%" alt="Spotify Clone Banner"/>
