@@ -1,12 +1,66 @@
-# React + Vite
+<h1 align="center">
+  🎧 Spotify Clone 🎶
+</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  A visually stunning, full-featured Spotify clone built with ❤️ using modern web technologies.
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <img src="https://img.shields.io/github/license/yourusername/spotify-clone?style=flat-square" />
+  <img src="https://img.shields.io/github/languages/top/yourusername/spotify-clone?style=flat-square" />
+  <img src="https://img.shields.io/github/issues/yourusername/spotify-clone?style=flat-square" />
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+  <img src="https://your-link-to-banner-image.png" width="100%" alt="Spotify Clone Banner"/>
+</p>
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Live Demo
+
+🔗 [Click here to view the live project](https://spotify-clone-b0torp292-niraj267s-projects.vercel.app)
+
+---
+
+## 📝 Description
+
+This project is a clone of Spotify's web interface featuring:
+- Music playback
+- Artist and album views
+- Playlist management
+- Beautiful UI inspired by Spotify
+- Responsive design for mobile & desktop
+
+---
+
+## 📸 Screenshots
+
+| Home Page | Now Playing | Playlist View |
+|----------|-------------|----------------|
+| ![Home](screenshots/home.png) | ![Now Playing](screenshots/now-playing.png) | ![Playlist](screenshots/playlist.png) |
+
+---
+
+## ⚙️ Tech Stack
+
+- **Frontend**: React.js / Next.js / Tailwind CSS
+- **Backend**: Node.js / Express
+- **Database**: MongoDB / PostgreSQL
+- **Authentication**: Firebase / OAuth / Supabase
+- **Deployment**: Vercel
+
+---
+
+## 🔧 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/spotify-clone.git
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
