@@ -28,14 +28,6 @@ This project is a clone of Spotify's web interface featuring:
 
 ---
 
-## 📸 Screenshots
-
-| Home Page | Now Playing | Playlist View |
-|----------|-------------|----------------|
-| ![Home](screenshots/home.png) | ![Now Playing](screenshots/now-playing.png) | ![Playlist](screenshots/playlist.png) |
-
----
-
 ## ⚙️ Tech Stack
 
 - **Frontend**: React.js / Next.js / Tailwind CSS  
